@@ -1,0 +1,11 @@
+Metric,Value
+Total Sessions Analyzed,1994
+P1 Immediate Alerts,1
+P2 High Priority Alerts,80
+P3 Review Alerts,16
+P4 Monitor Alerts,1897
+Isolation Forest Anomalies,100
+Rare Event Sessions,9
+Rare Transition Sessions,6
+Highest Hybrid Risk Score,0.8049
+Top Alert Event Sequence,E11 -> E3

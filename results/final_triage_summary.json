@@ -1,0 +1,12 @@
+{
+    "total_sessions_analyzed": 1994,
+    "p1_immediate_alerts": 1,
+    "p2_high_priority_alerts": 80,
+    "p3_review_alerts": 16,
+    "p4_monitor_alerts": 1897,
+    "highest_hybrid_risk_score": 0.8049,
+    "top_alert_block_id": "blk_-7029628814943626474",
+    "top_alert_event_sequence": "E11 -> E3",
+    "top_alert_severity": "Critical",
+    "top_alert_type": "critical_confirmed_anomaly"
+}
